@@ -18,6 +18,14 @@ html{
     left: 0;
     z-index: 99;
 }
+
+.contenedor-img {
+    padding: 10;
+    margin: 30px;
+    transition: 1ms
+
+}
+
 .contenedor-header header{
     max-width: 1100px;
     margin: auto;
